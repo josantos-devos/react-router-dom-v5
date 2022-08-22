@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install react-router-dom@5 @types/react-router-dom@5`
+
+Install react router dom v5 with types dev dependency
+
 ### `npm start`
 
 Runs the app in the development mode.\
